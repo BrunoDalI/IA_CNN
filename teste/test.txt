@@ -1,0 +1,3 @@
+cozinha.jpg 1
+quarto.jpg 2
+sala.jpg 3
