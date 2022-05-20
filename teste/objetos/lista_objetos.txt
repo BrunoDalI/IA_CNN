@@ -1,0 +1,4 @@
+armario.png
+armariogrande.png
+cadeira.png
+geladeira.png
