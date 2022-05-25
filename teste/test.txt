@@ -1,3 +1,0 @@
-cozinha.jpg,
-quarto.jpg,
-sala.jpg,
